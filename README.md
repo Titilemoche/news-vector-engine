@@ -41,8 +41,8 @@ Créer une plateforme qui simule une **agence de presse intelligente et personna
 - [X] Choisir les premières sources à scraper
 
 ### ⏳ Étape 1 – Prototype de base
-- [ ] Scraping basique (flux RSS ou APIs)
-- [ ] Stockage local + vectorisation
+- [X] Scraping basique (flux RSS ou APIs)
+- [X] Stockage local + vectorisation
 - [ ] Mise en place d’une base Qdrant + quelques clusters
 
 ### ⏳ Étape 2 – Matching & personnalisation

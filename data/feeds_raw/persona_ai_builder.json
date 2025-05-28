@@ -1,0 +1,4634 @@
+[
+  {
+    "title": "CodeAgents + Structure: A Better Way to Execute Actions",
+    "link": "https://huggingface.co/blog/structured-codeagent",
+    "published": "Tue, 28 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "🐯 Liger GRPO meets TRL",
+    "link": "https://huggingface.co/blog/liger-grpo",
+    "published": "Sun, 25 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Dell Enterprise Hub is all you need to build AI on premises",
+    "link": "https://huggingface.co/blog/dell-ai-applications",
+    "published": "Fri, 23 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
+    "link": "https://huggingface.co/blog/python-tiny-agents",
+    "published": "Fri, 23 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Exploring Quantization Backends in Diffusers",
+    "link": "https://huggingface.co/blog/diffusers-quantization",
+    "published": "Wed, 21 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
+    "link": "https://huggingface.co/blog/nanovlm",
+    "published": "Wed, 21 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Microsoft and Hugging Face expand collaboration",
+    "link": "https://huggingface.co/blog/azure-ai-foundry",
+    "published": "Mon, 19 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Transformers Library: standardizing model definitions",
+    "link": "https://huggingface.co/blog/transformers-model-definition",
+    "published": "Thu, 15 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Improving Hugging Face Model Access for Kaggle Users",
+    "link": "https://huggingface.co/blog/kaggle-integration",
+    "published": "Wed, 14 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
+    "link": "https://huggingface.co/blog/fast-whisper-endpoints",
+    "published": "Tue, 13 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Vision Language Models (Better, Faster, Stronger)",
+    "link": "https://huggingface.co/blog/vlms-2025",
+    "published": "Mon, 12 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?",
+    "link": "https://huggingface.co/blog/lerobot-datasets",
+    "published": "Sun, 11 May 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How to Build an MCP Server with Gradio",
+    "link": "https://huggingface.co/blog/gradio-mcp",
+    "published": "Wed, 30 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcoming Llama Guard 4 on Hugging Face Hub",
+    "link": "https://huggingface.co/blog/llama-guard-4",
+    "published": "Tue, 29 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The 4 Things Qwen-3's Chat Template Teaches Us",
+    "link": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
+    "published": "Wed, 30 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Tiny Agents: a MCP-powered agent in 50 lines of code",
+    "link": "https://huggingface.co/blog/tiny-agents",
+    "published": "Fri, 25 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
+    "link": "https://huggingface.co/blog/autoround",
+    "published": "Tue, 29 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "17 Reasons Why Gradio Isn't Just Another UI Library",
+    "link": "https://huggingface.co/blog/why-gradio-stands-out",
+    "published": "Wed, 16 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Cohere on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-cohere",
+    "published": "Wed, 16 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing HELMET",
+    "link": "https://huggingface.co/blog/helmet",
+    "published": "Wed, 16 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖",
+    "link": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
+    "published": "Mon, 14 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "4M Models Scanned: Protect AI + Hugging Face 6 Months In",
+    "link": "https://huggingface.co/blog/pai-6-month",
+    "published": "Mon, 14 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC",
+    "link": "https://huggingface.co/blog/fastrtc-cloudflare",
+    "published": "Wed, 09 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More",
+    "link": "https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval",
+    "published": "Tue, 08 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Llama 4 Maverick & Scout on Hugging Face!",
+    "link": "https://huggingface.co/blog/llama4-release",
+    "published": "Sat, 05 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Journey to 1 Million Gradio Users!",
+    "link": "https://huggingface.co/blog/gradio-1m",
+    "published": "Fri, 04 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The NLP Course is becoming the LLM Course!",
+    "link": "https://huggingface.co/blog/llm-course",
+    "published": "Thu, 03 Apr 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
+    "link": "https://huggingface.co/blog/scaling-secrets-management",
+    "published": "Mon, 31 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating LLM Inference with TGI on Intel Gaudi",
+    "link": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
+    "published": "Fri, 28 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Training and Finetuning Reranker Models with Sentence Transformers v4",
+    "link": "https://huggingface.co/blog/train-reranker",
+    "published": "Wed, 26 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Gradio's new Dataframe!",
+    "link": "https://huggingface.co/blog/gradio-dataframe-upgrade",
+    "published": "Mon, 24 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The New and Fresh analytics in Inference Endpoints",
+    "link": "https://huggingface.co/blog/endpoint-analytics",
+    "published": "Fri, 21 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open R1: How to use OlympicCoder locally for coding?",
+    "link": "https://huggingface.co/blog/olympic-coder-lmstudio",
+    "published": "Thu, 20 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI Policy: 🤗 Response to the White House AI Action Plan RFI",
+    "link": "https://huggingface.co/blog/ai-action-wh-2025",
+    "published": "Wed, 19 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
+    "link": "https://huggingface.co/blog/nvidia-physical-ai",
+    "published": "Tue, 18 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Xet is on the Hub",
+    "link": "https://huggingface.co/blog/xet-on-the-hub",
+    "published": "Tue, 18 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM",
+    "link": "https://huggingface.co/blog/gemma3",
+    "published": "Wed, 12 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "LeRobot goes to driving school: World’s largest open-source self-driving dataset",
+    "link": "https://huggingface.co/blog/lerobot-goes-to-driving-school",
+    "published": "Tue, 11 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!",
+    "link": "https://huggingface.co/blog/llm-inference-on-edge",
+    "published": "Fri, 07 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and JFrog partner to make AI Security more transparent",
+    "link": "https://huggingface.co/blog/jfrog",
+    "published": "Tue, 04 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality",
+    "link": "https://huggingface.co/blog/aya-vision",
+    "published": "Tue, 04 Mar 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Trace & Evaluate your Agent with Arize Phoenix",
+    "link": "https://huggingface.co/blog/smolagents-phoenix",
+    "published": "Fri, 28 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "HuggingFace, IISc partner to supercharge model building on India's diverse languages",
+    "link": "https://huggingface.co/blog/iisc-huggingface-collab",
+    "published": "Thu, 27 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "FastRTC: The Real-Time Communication Library for Python",
+    "link": "https://huggingface.co/blog/fastrtc",
+    "published": "Tue, 25 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Remote VAEs for decoding with HF endpoints 🤗",
+    "link": "https://huggingface.co/blog/remote_vae",
+    "published": "Mon, 24 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SigLIP 2: A better multilingual vision language encoder",
+    "link": "https://huggingface.co/blog/siglip2",
+    "published": "Fri, 21 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SmolVLM2: Bringing Video Understanding to Every Device",
+    "link": "https://huggingface.co/blog/smolvlm2",
+    "published": "Thu, 20 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "PaliGemma 2 Mix - New Instruction Vision Language Models by Google",
+    "link": "https://huggingface.co/blog/paligemma2mix",
+    "published": "Wed, 19 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic",
+    "published": "Tue, 18 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Fireworks.ai on the Hub 🎆",
+    "link": "https://huggingface.co/blog/fireworks-ai",
+    "published": "Fri, 14 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fixing Open LLM Leaderboard with Math-Verify",
+    "link": "https://huggingface.co/blog/math_verify_leaderboard",
+    "published": "Fri, 14 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "1 Billion Classifications",
+    "link": "https://huggingface.co/blog/billion-classifications",
+    "published": "Thu, 13 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub",
+    "link": "https://huggingface.co/blog/from-chunks-to-blocks",
+    "published": "Wed, 12 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Build awesome datasets for video generation",
+    "link": "https://huggingface.co/blog/vid_ds_scripts",
+    "published": "Wed, 12 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Open Arabic LLM Leaderboard 2",
+    "link": "https://huggingface.co/blog/leaderboard-arabic-v2",
+    "published": "Mon, 10 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open-source DeepResearch – Freeing our search agents",
+    "link": "https://huggingface.co/blog/open-deep-research",
+    "published": "Tue, 04 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "π0 and π0-FAST: Vision-Language-Action Models for General Robot Control",
+    "link": "https://huggingface.co/blog/pi0",
+    "published": "Tue, 04 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "DABStep: Data Agent Benchmark for Multi-step Reasoning",
+    "link": "https://huggingface.co/blog/dabstep",
+    "published": "Tue, 04 Feb 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The AI tools for Art Newsletter - Issue 1",
+    "link": "https://huggingface.co/blog/ai-art-newsletter-jan-25",
+    "published": "Fri, 31 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How to deploy and fine-tune DeepSeek models on AWS",
+    "link": "https://huggingface.co/blog/deepseek-r1-aws",
+    "published": "Thu, 30 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome to Inference Providers on the Hub 🔥",
+    "link": "https://huggingface.co/blog/inference-providers",
+    "published": "Tue, 28 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open-R1: a fully open reproduction of DeepSeek-R1",
+    "link": "https://huggingface.co/blog/open-r1",
+    "published": "Tue, 28 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "State of open video generation models in Diffusers",
+    "link": "https://huggingface.co/blog/video_gen",
+    "published": "Mon, 27 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "We now support VLMs in smolagents!",
+    "link": "https://huggingface.co/blog/smolagents-can-see",
+    "published": "Fri, 24 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SmolVLM Grows Smaller – Introducing the 250M & 500M Models!",
+    "link": "https://huggingface.co/blog/smolervlm",
+    "published": "Thu, 23 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and FriendliAI partner to supercharge model deployment on the Hub",
+    "link": "https://huggingface.co/blog/friendliai-partnership",
+    "published": "Wed, 22 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Timm ❤️ Transformers: Use any timm model with transformers",
+    "link": "https://huggingface.co/blog/timm-transformers",
+    "published": "Thu, 16 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference",
+    "link": "https://huggingface.co/blog/tgi-multi-backend",
+    "published": "Thu, 16 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Train 400x faster Static Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/static-embeddings",
+    "published": "Wed, 15 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Run ComfyUI workflows for free on Spaces",
+    "link": "https://huggingface.co/blog/run-comfyui-workflows-on-spaces",
+    "published": "Sun, 14 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI Agents Are Here. What Now?",
+    "link": "https://huggingface.co/blog/ethics-soc-7",
+    "published": "Mon, 13 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Visual Document Retrieval Goes Multilingual",
+    "link": "https://huggingface.co/blog/vdr-2b-multilingual",
+    "published": "Fri, 10 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-emissions-analysis",
+    "published": "Thu, 09 Jan 2025 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing smolagents: simple agents that write actions in code.",
+    "link": "https://huggingface.co/blog/smolagents",
+    "published": "Tue, 31 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Visualize and understand GPU memory in PyTorch",
+    "link": "https://huggingface.co/blog/train_memory",
+    "published": "Tue, 24 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo",
+    "link": "https://huggingface.co/blog/logits-processor-zoo",
+    "published": "Mon, 23 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Evaluating Audio Reasoning with Big Bench Audio",
+    "link": "https://huggingface.co/blog/big-bench-audio-release",
+    "published": "Fri, 20 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Finally, a Replacement for BERT: Introducing ModernBERT",
+    "link": "https://huggingface.co/blog/modernbert",
+    "published": "Thu, 19 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Bamba: Inference-Efficient Hybrid Mamba2 Model",
+    "link": "https://huggingface.co/blog/bamba",
+    "published": "Wed, 18 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome the Falcon 3 Family of Open Models!",
+    "link": "https://huggingface.co/blog/falcon3",
+    "published": "Tue, 17 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Benchmarking Language Model Performance on 5th Gen Xeon at GCP",
+    "link": "https://huggingface.co/blog/intel-gcp-c4",
+    "published": "Tue, 17 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Synthetic Data Generator - Build Datasets with Natural Language",
+    "link": "https://huggingface.co/blog/synthetic-data-generator",
+    "published": "Mon, 16 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "LeMaterial: an open source initiative to accelerate materials discovery and research",
+    "link": "https://huggingface.co/blog/lematerial",
+    "published": "Tue, 10 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face models in Amazon Bedrock",
+    "link": "https://huggingface.co/blog/bedrock-marketplace",
+    "published": "Mon, 09 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open Preference Dataset for Text-to-Image Generation by the 🤗 Community",
+    "link": "https://huggingface.co/blog/image-preferences",
+    "published": "Mon, 09 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome PaliGemma 2 – New vision language models by Google",
+    "link": "https://huggingface.co/blog/paligemma2",
+    "published": "Thu, 05 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs",
+    "link": "https://huggingface.co/blog/keras-chatbot-arena",
+    "published": "Thu, 05 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-3c3h-aragen",
+    "published": "Wed, 04 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Investing in Performance: Fine-tune small models with LLM insights  - a CFM case study",
+    "link": "https://huggingface.co/blog/cfm-case-study",
+    "published": "Tue, 03 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Rearchitecting Hugging Face Uploads and Downloads",
+    "link": "https://huggingface.co/blog/rearchitecting-uploads-and-downloads",
+    "published": "Tue, 26 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SmolVLM - small yet mighty Vision Language Model",
+    "link": "https://huggingface.co/blog/smolvlm",
+    "published": "Tue, 26 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "You could have designed state of the art positional encoding",
+    "link": "https://huggingface.co/blog/designing-positional-encoding",
+    "published": "Mon, 25 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Letting Large Models Debate: The First Multilingual LLM Debate Competition",
+    "link": "https://huggingface.co/blog/debate",
+    "published": "Wed, 20 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "From Files to Chunks: Improving Hugging Face Storage Efficiency",
+    "link": "https://huggingface.co/blog/from-files-to-chunks",
+    "published": "Wed, 20 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Faster Text Generation with Self-Speculative Decoding",
+    "link": "https://huggingface.co/blog/layerskip",
+    "published": "Wed, 20 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introduction to the Open Leaderboard for Japanese LLMs",
+    "link": "https://huggingface.co/blog/leaderboard-japanese",
+    "published": "Wed, 20 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Judge Arena: Benchmarking LLMs as Evaluators",
+    "link": "https://huggingface.co/blog/arena-atla",
+    "published": "Tue, 19 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open Source Developers Guide to the EU AI Act",
+    "link": "https://huggingface.co/blog/eu-ai-act-for-oss-developers",
+    "published": "Mon, 02 Dec 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Share your open ML datasets on Hugging Face Hub!",
+    "link": "https://huggingface.co/blog/researcher-dataset-sharing",
+    "published": "Tue, 12 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face + PyCharm",
+    "link": "https://huggingface.co/blog/pycharm-integration",
+    "published": "Tue, 05 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Argilla 2.4: Easily Build Fine-Tuning and Evaluation datasets on the Hub — No Code Required",
+    "link": "https://huggingface.co/blog/argilla-ui-hub",
+    "published": "Mon, 04 Nov 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Universal Assisted Generation: Faster Decoding with Any Assistant Model",
+    "link": "https://huggingface.co/blog/universal_assisted_generation",
+    "published": "Tue, 29 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge",
+    "link": "https://huggingface.co/blog/digital-green-llm-judge",
+    "published": "Mon, 28 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the Community",
+    "link": "https://huggingface.co/blog/protectai",
+    "published": "Tue, 22 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality",
+    "link": "https://huggingface.co/blog/aya-expanse",
+    "published": "Thu, 24 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing SynthID Text",
+    "link": "https://huggingface.co/blog/synthid-text",
+    "published": "Wed, 23 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing HUGS - Scale your AI with Open Models",
+    "link": "https://huggingface.co/blog/hugs",
+    "published": "Wed, 23 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "CinePile 2.0 - making stronger datasets with adversarial refinement",
+    "link": "https://huggingface.co/blog/cinepile2",
+    "published": "Wed, 23 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Transformers.js v3: WebGPU support, new models & tasks, and more…",
+    "link": "https://huggingface.co/blog/transformersjs-v3",
+    "published": "Tue, 22 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "🧨 Diffusers welcomes Stable Diffusion 3.5 Large",
+    "link": "https://huggingface.co/blog/sd3-5",
+    "published": "Tue, 22 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Releasing Outlines-core 0.1.0: structured generation in Rust and Python",
+    "link": "https://huggingface.co/blog/outlines-core",
+    "published": "Tue, 22 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploying Speech-to-Speech on Hugging Face",
+    "link": "https://huggingface.co/blog/s2s_endpoint",
+    "published": "Tue, 22 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Llama 3.2 in Keras",
+    "link": "https://huggingface.co/blog/keras-llama-32",
+    "published": "Mon, 21 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fixing Gradient Accumulation",
+    "link": "https://huggingface.co/blog/gradient_accumulation",
+    "published": "Wed, 16 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the AMD 5th Gen EPYC™ CPU",
+    "link": "https://huggingface.co/blog/huggingface-amd-turin",
+    "published": "Thu, 10 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Security Review of Gradio 5",
+    "link": "https://huggingface.co/blog/gradio-5-security",
+    "published": "Thu, 10 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome, Gradio 5",
+    "link": "https://huggingface.co/blog/gradio-5",
+    "published": "Wed, 09 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Scaling AI-based Data Processing with Hugging Face + Dask",
+    "link": "https://huggingface.co/blog/dask-scaling",
+    "published": "Wed, 09 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Faster Assisted Generation with Dynamic Speculation",
+    "link": "https://huggingface.co/blog/dynamic_speculation_lookahead",
+    "published": "Tue, 08 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Improving Parquet Dedupe on Hugging Face Hub",
+    "link": "https://huggingface.co/blog/improve_parquet_dedupe",
+    "published": "Sat, 05 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Open FinLLM Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-finbench",
+    "published": "Fri, 04 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Short Summary of Chinese AI Global Expansion",
+    "link": "https://huggingface.co/blog/chinese-ai-expansion",
+    "published": "Thu, 03 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "🇨🇿 BenCzechMark - Can your LLM Understand Czech?",
+    "link": "https://huggingface.co/blog/benczechmark",
+    "published": "Tue, 01 Oct 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Converting Vertex-Colored Meshes to Textured Meshes",
+    "link": "https://huggingface.co/blog/vertex-colored-to-textured-mesh",
+    "published": "Mon, 30 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Llama can now see and run on your device - welcome Llama 3.2",
+    "link": "https://huggingface.co/blog/llama32",
+    "published": "Wed, 25 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "FineVideo: behind the scenes",
+    "link": "https://huggingface.co/blog/fine-video",
+    "published": "Mon, 23 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Exploring the Daily Papers Page on Hugging Face",
+    "link": "https://huggingface.co/blog/daily-papers",
+    "published": "Mon, 23 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Optimize and deploy models with Optimum-Intel and OpenVINO GenAI",
+    "link": "https://huggingface.co/blog/deploy-with-openvino",
+    "published": "Fri, 20 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
+    "link": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
+    "published": "Wed, 18 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the SQL Console on Datasets",
+    "link": "https://huggingface.co/blog/sql-console",
+    "published": "Tue, 17 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Community Tools on HuggingChat",
+    "link": "https://huggingface.co/blog/community-tools",
+    "published": "Mon, 16 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerate 1.0.0",
+    "link": "https://huggingface.co/blog/accelerate-v1",
+    "published": "Fri, 13 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face partners with TruffleHog to Scan for Secrets",
+    "link": "https://huggingface.co/blog/trufflesecurity-partnership",
+    "published": "Wed, 04 Sep 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Scaling robotics datasets with video encoding",
+    "link": "https://huggingface.co/blog/video-encoding",
+    "published": "Tue, 27 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The 5 Most Under-Rated Tools on Hugging Face",
+    "link": "https://huggingface.co/blog/unsung-heroes",
+    "published": "Thu, 22 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Improving Hugging Face Training Efficiency Through Packing with Flash Attention",
+    "link": "https://huggingface.co/blog/packing-with-FA2",
+    "published": "Wed, 21 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI",
+    "link": "https://huggingface.co/blog/llama31-on-vertex-ai",
+    "published": "Mon, 19 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A failed experiment: Infini-Attention, and why we should keep trying?",
+    "link": "https://huggingface.co/blog/infini-attention",
+    "published": "Wed, 14 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introduction to ggml",
+    "link": "https://huggingface.co/blog/introduction-to-ggml",
+    "published": "Tue, 13 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome FalconMamba: The first strong attention-free 7B model",
+    "link": "https://huggingface.co/blog/falconmamba",
+    "published": "Mon, 12 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Tool Use, Unified",
+    "link": "https://huggingface.co/blog/unified-tool-use",
+    "published": "Mon, 12 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "XetHub is joining Hugging Face!",
+    "link": "https://huggingface.co/blog/xethub-joins-hf",
+    "published": "Thu, 08 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "2024 Security Feature Highlights",
+    "link": "https://huggingface.co/blog/2024-security-features",
+    "published": "Tue, 06 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing TextImage Augmentation for Document Images",
+    "link": "https://huggingface.co/blog/doc_aug_hf_alb",
+    "published": "Tue, 06 Aug 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Google releases Gemma 2 2B, ShieldGemma and Gemma Scope",
+    "link": "https://huggingface.co/blog/gemma-july-update",
+    "published": "Wed, 31 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Memory-efficient Diffusion Transformers with Quanto and Diffusers",
+    "link": "https://huggingface.co/blog/quanto-diffusers",
+    "published": "Tue, 30 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Serverless Inference with Hugging Face and NVIDIA NIMs",
+    "link": "https://huggingface.co/blog/inference-dgx-cloud",
+    "published": "Mon, 29 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?",
+    "link": "https://huggingface.co/blog/zero-shot-vqa-docmatix",
+    "published": "Thu, 25 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Llama 3.1 - 405B, 70B & 8B with multilinguality and long context",
+    "link": "https://huggingface.co/blog/llama31",
+    "published": "Tue, 23 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "WWDC 24: Running Mistral 7B with Core ML",
+    "link": "https://huggingface.co/blog/mistral-coreml",
+    "published": "Mon, 22 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Docmatix - a huge dataset for Document Visual Question Answering",
+    "link": "https://huggingface.co/blog/docmatix",
+    "published": "Thu, 18 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "TGI Multi-LoRA: Deploy Once, Serve 30 Models",
+    "link": "https://huggingface.co/blog/multi-lora-serving",
+    "published": "Thu, 18 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SmolLM - blazingly fast and remarkably powerful",
+    "link": "https://huggingface.co/blog/smollm",
+    "published": "Tue, 16 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How we leveraged distilabel to create an Argilla 2.0 Chatbot",
+    "link": "https://huggingface.co/blog/argilla-chatbot",
+    "published": "Tue, 16 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How NuminaMath Won the 1st AIMO Progress Prize",
+    "link": "https://huggingface.co/blog/winning-aimo-progress-prize",
+    "published": "Thu, 11 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Announcing New Hugging Face and KerasHub integration",
+    "link": "https://huggingface.co/blog/keras-hub-integration",
+    "published": "Wed, 10 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Experimenting with Automatic PII Detection on the Hub using Presidio",
+    "link": "https://huggingface.co/blog/presidio-pii-detection",
+    "published": "Wed, 10 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Preference Optimization for Vision Language Models",
+    "link": "https://huggingface.co/blog/dpo_vlm",
+    "published": "Wed, 10 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Google Cloud TPUs made available to Hugging Face users",
+    "link": "https://huggingface.co/blog/tpu-inference-endpoints-spaces",
+    "published": "Tue, 09 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution",
+    "link": "https://huggingface.co/blog/sovereign-data-solution-case-study",
+    "published": "Tue, 09 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Announcing New Dataset Search Features",
+    "link": "https://huggingface.co/blog/datasets-filters",
+    "published": "Mon, 08 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating Protein Language Model ProtST on Intel Gaudi 2",
+    "link": "https://huggingface.co/blog/intel-protein-language-model-protst",
+    "published": "Wed, 03 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Our Transformers Code Agent beats the GAIA benchmark!",
+    "link": "https://huggingface.co/blog/beating-gaia",
+    "published": "Mon, 01 Jul 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Gemma 2 - Google's new open LLM",
+    "link": "https://huggingface.co/blog/gemma2",
+    "published": "Thu, 27 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face",
+    "link": "https://huggingface.co/blog/xlscout-case-study",
+    "published": "Tue, 25 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models",
+    "link": "https://huggingface.co/blog/finetune-florence2",
+    "published": "Mon, 24 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality",
+    "link": "https://huggingface.co/blog/ethics-soc-6",
+    "published": "Mon, 24 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Data Is Better Together: A Look Back and Forward",
+    "link": "https://huggingface.co/blog/dibt",
+    "published": "Thu, 20 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap",
+    "link": "https://huggingface.co/blog/prezi-case-study",
+    "published": "Wed, 19 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "BigCodeBench: Benchmarking Large Language Models on Solving Practical and Challenging Programming Tasks",
+    "link": "https://huggingface.co/blog/leaderboard-bigcodebench",
+    "published": "Tue, 18 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate",
+    "link": "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
+    "published": "Thu, 13 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "🧨 Diffusers welcomes Stable Diffusion 3",
+    "link": "https://huggingface.co/blog/sd3",
+    "published": "Wed, 12 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Putting RL back in RLHF",
+    "link": "https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo",
+    "published": "Wed, 12 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making sense of this mess",
+    "link": "https://huggingface.co/blog/transformers-docs-redesign",
+    "published": "Fri, 07 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Hugging Face Embedding Container for Amazon SageMaker",
+    "link": "https://huggingface.co/blog/sagemaker-huggingface-embedding",
+    "published": "Fri, 07 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Launching the Artificial Analysis Text to Image Leaderboard & Arena",
+    "link": "https://huggingface.co/blog/leaderboard-artificial-analysis2",
+    "published": "Thu, 06 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs",
+    "link": "https://huggingface.co/blog/npc-gigax-cubzh",
+    "published": "Wed, 05 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Faster assisted generation support for Intel Gaudi",
+    "link": "https://huggingface.co/blog/assisted-generation-support-gaudi",
+    "published": "Tue, 04 Jun 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Space secrets security update",
+    "link": "https://huggingface.co/blog/space-secrets-disclosure",
+    "published": "Fri, 31 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Benchmarking Text Generation Inference",
+    "link": "https://huggingface.co/blog/tgi-benchmarking",
+    "published": "Wed, 29 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Training and Finetuning Embedding Models with Sentence Transformers v3",
+    "link": "https://huggingface.co/blog/train-sentence-transformers",
+    "published": "Tue, 28 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens tokens and 11 languages",
+    "link": "https://huggingface.co/blog/falcon2-11b",
+    "published": "Fri, 24 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models",
+    "link": "https://huggingface.co/blog/leaderboard-llamaguard",
+    "published": "Fri, 24 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Unlocking Longer Generation with Key-Value Cache Quantization",
+    "link": "https://huggingface.co/blog/kv-cache-quantization",
+    "published": "Thu, 16 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploy models on AWS Inferentia2 from Hugging Face",
+    "link": "https://huggingface.co/blog/inferentia-inference-endpoints",
+    "published": "Wed, 22 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Spaces Dev Mode for a seamless developer experience",
+    "link": "https://huggingface.co/blog/spaces-dev-mode",
+    "published": "Tue, 21 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Build AI on premise with Dell Enterprise Hub",
+    "link": "https://huggingface.co/blog/dell-enterprise-hub",
+    "published": "Tue, 21 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face on AMD Instinct MI300 GPU",
+    "link": "https://huggingface.co/blog/huggingface-amd-mi300",
+    "published": "Tue, 21 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "From cloud to developers: Hugging Face and Microsoft Deepen Collaboration",
+    "link": "https://huggingface.co/blog/microsoft-collaboration",
+    "published": "Tue, 21 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "PaliGemma – Google's Cutting-Edge Open Vision Language Model",
+    "link": "https://huggingface.co/blog/paligemma",
+    "published": "Tue, 14 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face x LangChain : A new partner package in LangChain",
+    "link": "https://huggingface.co/blog/langchain",
+    "published": "Tue, 14 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Open Arabic LLM Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-arabic",
+    "published": "Tue, 14 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "License to Call: Introducing Transformers Agents 2.0",
+    "link": "https://huggingface.co/blog/agents",
+    "published": "Mon, 13 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Subscribe to Enterprise Hub with your AWS Account",
+    "link": "https://huggingface.co/blog/enterprise-hub-aws-marketplace",
+    "published": "Thu, 09 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon",
+    "link": "https://huggingface.co/blog/cost-efficient-rag-applications-with-intel",
+    "published": "Thu, 09 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Open Leaderboard for Hebrew LLMs!",
+    "link": "https://huggingface.co/blog/leaderboard-hebrew",
+    "published": "Sun, 05 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face",
+    "link": "https://huggingface.co/blog/leaderboard-artificial-analysis",
+    "published": "Fri, 03 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints",
+    "link": "https://huggingface.co/blog/asr-diarization",
+    "published": "Wed, 01 May 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Improving Prompt Consistency with Structured Generations",
+    "link": "https://huggingface.co/blog/evaluation-structured-outputs",
+    "published": "Tue, 30 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation",
+    "link": "https://huggingface.co/blog/sc2-instruct",
+    "published": "Mon, 29 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Open Chain of Thought Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-cot",
+    "published": "Tue, 23 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
+    "link": "https://huggingface.co/blog/jat",
+    "published": "Mon, 22 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Llama 3 - Meta's new open LLM",
+    "link": "https://huggingface.co/blog/llama3",
+    "published": "Thu, 18 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare",
+    "link": "https://huggingface.co/blog/leaderboard-medicalllm",
+    "published": "Fri, 19 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI Apps in a Flash with Gradio's Reload Mode",
+    "link": "https://huggingface.co/blog/gradio-reload",
+    "published": "Tue, 16 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs",
+    "link": "https://huggingface.co/blog/leaderboard-livecodebench",
+    "published": "Tue, 16 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Running Privacy-Preserving Inference on Hugging Face Endpoints",
+    "link": "https://huggingface.co/blog/fhe-endpoints",
+    "published": "Tue, 16 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face",
+    "link": "https://huggingface.co/blog/ryght-case-study",
+    "published": "Tue, 16 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Idefics2: A Powerful 8B Vision-Language Model for the community",
+    "link": "https://huggingface.co/blog/idefics2",
+    "published": "Mon, 15 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Vision Language Models Explained",
+    "link": "https://huggingface.co/blog/vlms",
+    "published": "Thu, 11 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making thousands of open LLMs bloom in the Vertex AI Model Garden",
+    "link": "https://huggingface.co/blog/google-cloud-model-garden",
+    "published": "Wed, 10 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "CodeGemma - an official Google release for code LLMs",
+    "link": "https://huggingface.co/blog/codegemma",
+    "published": "Tue, 09 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face partners with Wiz Research to Improve AI Security",
+    "link": "https://huggingface.co/blog/hugging-face-wiz-security-blog",
+    "published": "Thu, 04 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B",
+    "link": "https://huggingface.co/blog/duckdb-nsql-7b",
+    "published": "Thu, 04 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon",
+    "link": "https://huggingface.co/blog/setfit-optimum-intel",
+    "published": "Wed, 03 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Public Policy at Hugging Face",
+    "link": "https://huggingface.co/blog/policy-blog",
+    "published": "Mon, 08 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Bringing serverless GPU inference to Hugging Face users",
+    "link": "https://huggingface.co/blog/cloudflare-workers-ai",
+    "published": "Tue, 02 Apr 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Pollen-Vision: Unified interface for Zero-Shot vision models in robotics",
+    "link": "https://huggingface.co/blog/pollen-vision",
+    "published": "Mon, 25 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Total noob’s intro to Hugging Face Transformers",
+    "link": "https://huggingface.co/blog/noob_intro_transformers",
+    "published": "Fri, 22 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval",
+    "link": "https://huggingface.co/blog/embedding-quantization",
+    "published": "Fri, 22 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Chatbot Guardrails Arena",
+    "link": "https://huggingface.co/blog/arena-lighthouz",
+    "published": "Thu, 21 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake",
+    "link": "https://huggingface.co/blog/phi2-intel-meteor-lake",
+    "published": "Wed, 20 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models",
+    "link": "https://huggingface.co/blog/cosmopedia",
+    "published": "Wed, 20 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "GaLore: Advancing Large Model Training on Consumer-grade Hardware",
+    "link": "https://huggingface.co/blog/galore",
+    "published": "Wed, 20 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Easily Train Models with H100 GPUs on NVIDIA DGX Cloud",
+    "link": "https://huggingface.co/blog/train-dgx-cloud",
+    "published": "Mon, 18 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "quanto: a pytorch quantization toolkit",
+    "link": "https://huggingface.co/blog/quanto-introduction",
+    "published": "Mon, 18 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG",
+    "link": "https://huggingface.co/blog/intel-fast-embedding",
+    "published": "Fri, 15 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset",
+    "link": "https://huggingface.co/blog/websight",
+    "published": "Fri, 15 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?",
+    "link": "https://huggingface.co/blog/leaderboard-contextual",
+    "published": "Tue, 05 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Data is better together",
+    "link": "https://huggingface.co/blog/community-datasets",
+    "published": "Mon, 04 Mar 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator",
+    "link": "https://huggingface.co/blog/textgen-pipe-gaudi",
+    "published": "Thu, 29 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "StarCoder2 and The Stack v2",
+    "link": "https://huggingface.co/blog/starcoder2",
+    "published": "Wed, 28 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "TTS Arena: Benchmarking Text-to-Speech Models in the Wild",
+    "link": "https://huggingface.co/blog/arena-tts",
+    "published": "Tue, 27 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI Watermarking 101: Tools and Techniques",
+    "link": "https://huggingface.co/blog/watermarking",
+    "published": "Mon, 26 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-Tuning Gemma Models in Hugging Face",
+    "link": "https://huggingface.co/blog/gemma-peft",
+    "published": "Fri, 23 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Red-Teaming Resistance Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-haizelab",
+    "published": "Fri, 23 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "🪆 Introduction to Matryoshka Embedding Models",
+    "link": "https://huggingface.co/blog/matryoshka",
+    "published": "Fri, 23 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS",
+    "link": "https://huggingface.co/blog/fetch-eap-case-study",
+    "published": "Thu, 23 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Gemma - Google's new open LLM",
+    "link": "https://huggingface.co/blog/gemma",
+    "published": "Wed, 21 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem",
+    "link": "https://huggingface.co/blog/leaderboard-upstage",
+    "published": "Tue, 20 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "🤗 PEFT welcomes new merging methods",
+    "link": "https://huggingface.co/blog/peft_merging",
+    "published": "Mon, 19 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Synthetic data: save money, time and carbon with open source",
+    "link": "https://huggingface.co/blog/synthetic-data-save-costs",
+    "published": "Fri, 16 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AMD Pervasive AI Developer Contest!",
+    "link": "https://huggingface.co/blog/amd_pervasive_developer_ai_contest",
+    "published": "Wed, 14 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "From OpenAI to Open LLMs with Messages API",
+    "link": "https://huggingface.co/blog/tgi-messages-api",
+    "published": "Thu, 08 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SegMoE: Segmind Mixture of Diffusion Experts",
+    "link": "https://huggingface.co/blog/segmoe",
+    "published": "Sat, 03 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates",
+    "link": "https://huggingface.co/blog/leaderboard-nphardeval",
+    "published": "Fri, 02 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Constitutional AI with Open LLMs",
+    "link": "https://huggingface.co/blog/constitutional_ai",
+    "published": "Thu, 01 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Text Generation Inference available for AWS Inferentia2",
+    "link": "https://huggingface.co/blog/text-generation-inference-on-inferentia2",
+    "published": "Thu, 01 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Patch Time Series Transformer in Hugging Face",
+    "link": "https://huggingface.co/blog/patchtst",
+    "published": "Thu, 01 Feb 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases",
+    "link": "https://huggingface.co/blog/leaderboard-patronus",
+    "published": "Wed, 31 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding",
+    "link": "https://huggingface.co/blog/intel-starcoder-quantization",
+    "published": "Tue, 30 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models",
+    "link": "https://huggingface.co/blog/leaderboard-hallucinations",
+    "published": "Mon, 29 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "An Introduction to AI Secure LLM Safety Leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-decodingtrust",
+    "published": "Fri, 26 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and Google partner for open AI collaboration",
+    "link": "https://huggingface.co/blog/gcp-partnership",
+    "published": "Thu, 25 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open-source LLMs as LangChain Agents",
+    "link": "https://huggingface.co/blog/open-source-llms-as-agents",
+    "published": "Wed, 24 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers",
+    "link": "https://huggingface.co/blog/fine-tune-w2v2-bert",
+    "published": "Fri, 19 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "PatchTSMixer in HuggingFace",
+    "link": "https://huggingface.co/blog/patchtsmixer",
+    "published": "Fri, 19 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Preference Tuning LLMs with Direct Preference Optimization Methods",
+    "link": "https://huggingface.co/blog/pref-tuning",
+    "published": "Thu, 18 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive",
+    "link": "https://huggingface.co/blog/sdxl_ort_inference",
+    "published": "Mon, 15 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard",
+    "link": "https://huggingface.co/blog/leaderboard-vectara",
+    "published": "Fri, 12 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Faster fine-tuning using TRL & Unsloth",
+    "link": "https://huggingface.co/blog/unsloth-trl",
+    "published": "Wed, 10 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome aMUSEd: Efficient Text-to-Image Generation",
+    "link": "https://huggingface.co/blog/amused",
+    "published": "Thu, 04 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "LoRA training scripts of the world, unite!",
+    "link": "https://huggingface.co/blog/sdxl_lora_advanced_script",
+    "published": "Tue, 02 Jan 2024 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Speculative Decoding for 2x Faster Whisper Inference",
+    "link": "https://huggingface.co/blog/whisper-speculative-decoding",
+    "published": "Wed, 20 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "2023, year of open LLMs",
+    "link": "https://huggingface.co/blog/2023-in-llms",
+    "published": "Mon, 18 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
+    "link": "https://huggingface.co/blog/mixtral",
+    "published": "Mon, 11 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Mixture of Experts Explained",
+    "link": "https://huggingface.co/blog/moe",
+    "published": "Mon, 11 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU",
+    "link": "https://huggingface.co/blog/huggingface-and-optimum-amd",
+    "published": "Tue, 05 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit",
+    "link": "https://huggingface.co/blog/setfit-absa",
+    "published": "Wed, 06 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Optimum-NVIDIA - Unlock blazingly fast LLM inference in just 1 line of code",
+    "link": "https://huggingface.co/blog/optimum-nvidia",
+    "published": "Tue, 05 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Goodbye cold boot - how we made LoRA inference 300% faster",
+    "link": "https://huggingface.co/blog/lora-adapters-dynamic-loading",
+    "published": "Tue, 05 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open LLM Leaderboard: DROP deep dive",
+    "link": "https://huggingface.co/blog/open-llm-leaderboard-drop",
+    "published": "Fri, 01 Dec 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SDXL in 4 steps with Latent Consistency LoRAs",
+    "link": "https://huggingface.co/blog/lcm_lora",
+    "published": "Thu, 09 Nov 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Make your llama generation time fly with AWS Inferentia2",
+    "link": "https://huggingface.co/blog/inferentia-llama2",
+    "published": "Tue, 07 Nov 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Prodigy-HF: a direct integration with Hugging Face",
+    "link": "https://huggingface.co/blog/prodigy-hf",
+    "published": "Tue, 07 Nov 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora",
+    "link": "https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral",
+    "published": "Tue, 07 Nov 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Storage Regions on the HF Hub",
+    "link": "https://huggingface.co/blog/regions",
+    "published": "Fri, 03 Nov 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Personal Copilot: Train Your Own Coding Assistant",
+    "link": "https://huggingface.co/blog/personal-copilot",
+    "published": "Fri, 27 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Interactively explore your Huggingface dataset with one line of code",
+    "link": "https://huggingface.co/blog/scalable-data-inspection",
+    "published": "Wed, 25 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploy Embedding Models with Hugging Face Inference Endpoints",
+    "link": "https://huggingface.co/blog/inference-endpoints-embeddings",
+    "published": "Tue, 24 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The N Implementation Details of RLHF with PPO",
+    "link": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo",
+    "published": "Tue, 24 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Exploring simple optimizations for SDXL",
+    "link": "https://huggingface.co/blog/simple_sdxl_optimizations",
+    "published": "Tue, 24 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Gradio-Lite: Serverless Gradio Running Entirely in Your Browser",
+    "link": "https://huggingface.co/blog/gradio-lite",
+    "published": "Thu, 19 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating over 130,000 Hugging Face models with ONNX Runtime",
+    "link": "https://huggingface.co/blog/ort-accelerating-hf-models",
+    "published": "Wed, 04 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e",
+    "link": "https://huggingface.co/blog/sdxl_jax",
+    "published": "Tue, 03 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Chat Templates: An End to the Silent Performance Killer",
+    "link": "https://huggingface.co/blog/chat-templates",
+    "published": "Tue, 03 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploying the AI Comic Factory using the Inference API",
+    "link": "https://huggingface.co/blog/ai-comic-factory",
+    "published": "Mon, 02 Oct 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings",
+    "link": "https://huggingface.co/blog/ethics-soc-5",
+    "published": "Fri, 29 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Finetune Stable Diffusion Models with DDPO via TRL",
+    "link": "https://huggingface.co/blog/trl-ddpo",
+    "published": "Fri, 29 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Non-engineers guide: Train a LLaMA 2 chatbot",
+    "link": "https://huggingface.co/blog/Llama2-for-non-engineers",
+    "published": "Thu, 28 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Llama 2 on Amazon SageMaker a Benchmark",
+    "link": "https://huggingface.co/blog/llama-sagemaker-benchmark",
+    "published": "Tue, 26 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Inference for PROs",
+    "link": "https://huggingface.co/blog/inference-pro",
+    "published": "Fri, 22 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Rocket Money x Hugging Face: Scaling Volatile ML Models in Production",
+    "link": "https://huggingface.co/blog/rocketmoney-case-study",
+    "published": "Tue, 19 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introduction to 3D Gaussian Splatting",
+    "link": "https://huggingface.co/blog/gaussian-splatting",
+    "published": "Mon, 18 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Object Detection Leaderboard",
+    "link": "https://huggingface.co/blog/object-detection-leaderboard",
+    "published": "Mon, 18 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Optimizing your LLM in production",
+    "link": "https://huggingface.co/blog/optimize-llm",
+    "published": "Fri, 15 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Würstchen: Fast Diffusion for Image Generation",
+    "link": "https://huggingface.co/blog/wuerstchen",
+    "published": "Wed, 13 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-tuning Llama 2 70B using PyTorch FSDP",
+    "link": "https://huggingface.co/blog/ram-efficient-pytorch-fsdp",
+    "published": "Wed, 13 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Overview of natively supported quantization schemes in 🤗 Transformers",
+    "link": "https://huggingface.co/blog/overview-quantization-transformers",
+    "published": "Tue, 12 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SafeCoder vs. Closed-source Code Assistants",
+    "link": "https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants",
+    "published": "Mon, 11 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Efficient Controllable Generation for SDXL with T2I-Adapters",
+    "link": "https://huggingface.co/blog/t2i-sdxl-adapters",
+    "published": "Fri, 08 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Spread Your Wings: Falcon 180B is here",
+    "link": "https://huggingface.co/blog/falcon-180b",
+    "published": "Wed, 06 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face",
+    "link": "https://huggingface.co/blog/fetch-case-study",
+    "published": "Fri, 01 Sep 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AudioLDM 2, but faster ⚡️",
+    "link": "https://huggingface.co/blog/audioldm2",
+    "published": "Wed, 30 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Code Llama: Llama 2 learns to code",
+    "link": "https://huggingface.co/blog/codellama",
+    "published": "Fri, 25 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deprecation of Git Authentication using password",
+    "link": "https://huggingface.co/blog/password-git-deprecation",
+    "published": "Fri, 25 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making LLMs lighter with AutoGPTQ and transformers",
+    "link": "https://huggingface.co/blog/gptq-integration",
+    "published": "Wed, 23 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing SafeCoder",
+    "link": "https://huggingface.co/blog/safecoder",
+    "published": "Tue, 22 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Language Model",
+    "link": "https://huggingface.co/blog/idefics",
+    "published": "Tue, 22 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Platform on the AWS Marketplace: Pay with your AWS Account",
+    "link": "https://huggingface.co/blog/aws-marketplace",
+    "published": "Thu, 10 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Optimizing Bark using 🤗 Transformers",
+    "link": "https://huggingface.co/blog/optimizing-bark",
+    "published": "Wed, 09 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action",
+    "link": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml",
+    "published": "Wed, 09 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-tune Llama 2 with DPO",
+    "link": "https://huggingface.co/blog/dpo-trl",
+    "published": "Tue, 08 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Releasing Swift Transformers: Run On-Device LLMs in Apple Devices",
+    "link": "https://huggingface.co/blog/swift-coreml-llm",
+    "published": "Tue, 08 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploy MusicGen in no time with Inference Endpoints",
+    "link": "https://huggingface.co/blog/run-musicgen-as-an-api",
+    "published": "Fri, 04 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/huggy-lingo",
+    "published": "Wed, 02 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Towards Encrypted Large Language Models with FHE",
+    "link": "https://huggingface.co/blog/encrypted-llm",
+    "published": "Wed, 02 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Practical 3D Asset Generation: A Step-by-Step Guide",
+    "link": "https://huggingface.co/blog/3d-assets",
+    "published": "Tue, 01 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny",
+    "link": "https://huggingface.co/blog/sd_distillation",
+    "published": "Tue, 01 Aug 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Stable Diffusion XL on Mac with Advanced Core ML Quantization",
+    "link": "https://huggingface.co/blog/stable-diffusion-xl-coreml",
+    "published": "Thu, 27 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI Policy @🤗: Open ML Considerations in the EU AI Act",
+    "link": "https://huggingface.co/blog/eu-ai-act-oss",
+    "published": "Mon, 24 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Agents.js: Give tools to your LLMs using JavaScript",
+    "link": "https://huggingface.co/blog/agents-js",
+    "published": "Mon, 24 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Results of the Open Source AI Game Jam",
+    "link": "https://huggingface.co/blog/game-jam-first-edition-results",
+    "published": "Fri, 21 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Happy 1st anniversary 🤗 Diffusers!",
+    "link": "https://huggingface.co/blog/diffusers-turns-1",
+    "published": "Thu, 20 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Llama 2 is here - get it on Hugging Face",
+    "link": "https://huggingface.co/blog/llama2",
+    "published": "Tue, 18 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Building an AI WebTV",
+    "link": "https://huggingface.co/blog/ai-webtv",
+    "published": "Mon, 17 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Open-Source Text Generation & LLM Ecosystem at Hugging Face",
+    "link": "https://huggingface.co/blog/os-llms",
+    "published": "Mon, 17 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-tuning Stable Diffusion models on Intel CPUs",
+    "link": "https://huggingface.co/blog/stable-diffusion-finetuning-intel",
+    "published": "Fri, 14 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making ML-powered web games with Transformers.js",
+    "link": "https://huggingface.co/blog/ml-web-games",
+    "published": "Wed, 05 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploy LLMs with Hugging Face Inference Endpoints",
+    "link": "https://huggingface.co/blog/inference-endpoints-llm",
+    "published": "Tue, 04 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making a web app generator with open ML models",
+    "link": "https://huggingface.co/blog/text-to-webapp",
+    "published": "Mon, 03 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Leveraging Hugging Face for complex generative AI use cases",
+    "link": "https://huggingface.co/blog/writer-case-study",
+    "published": "Sat, 01 Jul 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2",
+    "link": "https://huggingface.co/blog/bridgetower",
+    "published": "Thu, 29 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Ethics and Society Newsletter #4: Bias in Text-to-Image Models",
+    "link": "https://huggingface.co/blog/ethics-soc-4",
+    "published": "Mon, 26 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "What's going on with the Open LLM Leaderboard?",
+    "link": "https://huggingface.co/blog/open-llm-leaderboard-mmlu",
+    "published": "Fri, 23 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Panel on Hugging Face",
+    "link": "https://huggingface.co/blog/panel-on-hugging-face",
+    "published": "Thu, 22 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-tuning MMS Adapter Models for Multi-Lingual ASR",
+    "link": "https://huggingface.co/blog/mms_adapters",
+    "published": "Mon, 19 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
+    "link": "https://huggingface.co/blog/policy-ntia-rfc",
+    "published": "Tue, 20 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)",
+    "link": "https://huggingface.co/blog/autoformer",
+    "published": "Fri, 16 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac",
+    "link": "https://huggingface.co/blog/fast-diffusers-coreml",
+    "published": "Thu, 15 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploy Livebook notebooks as apps to Hugging Face Spaces",
+    "link": "https://huggingface.co/blog/livebook-app-deployment",
+    "published": "Thu, 15 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Announcing our new Content Guidelines and Policy",
+    "link": "https://huggingface.co/blog/content-guidelines-update",
+    "published": "Thu, 15 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms",
+    "link": "https://huggingface.co/blog/huggingface-and-amd",
+    "published": "Tue, 13 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Can foundation models label data like humans?",
+    "link": "https://huggingface.co/blog/open-llm-leaderboard-rlhf",
+    "published": "Mon, 12 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Hugging Face Hub for Galleries, Libraries, Archives and Museums",
+    "link": "https://huggingface.co/blog/hf-hub-glam-guide",
+    "published": "Mon, 12 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "DuckDB: run SQL queries on 50,000+ datasets on the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/hub-duckdb",
+    "published": "Wed, 07 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome fastText to the 🤗 Hub",
+    "link": "https://huggingface.co/blog/fasttext",
+    "published": "Tue, 06 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Falcon has landed in the Hugging Face ecosystem",
+    "link": "https://huggingface.co/blog/falcon",
+    "published": "Mon, 05 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI Speech Recognition in Unity",
+    "link": "https://huggingface.co/blog/unity-asr",
+    "published": "Fri, 02 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Announcing the Open Source AI Game Jam 🎮",
+    "link": "https://huggingface.co/blog/game-jam",
+    "published": "Thu, 01 Jun 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Selected for the French Data Protection Agency Enhanced Support Program",
+    "link": "https://huggingface.co/blog/cnil",
+    "published": "Mon, 15 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Hugging Face LLM Inference Container for Amazon SageMaker",
+    "link": "https://huggingface.co/blog/sagemaker-huggingface-llm",
+    "published": "Wed, 31 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing BERTopic Integration with Hugging Face Hub",
+    "link": "https://huggingface.co/blog/bertopic",
+    "published": "Wed, 31 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum",
+    "link": "https://huggingface.co/blog/train-optimize-sd-intel",
+    "published": "Thu, 25 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA",
+    "link": "https://huggingface.co/blog/4bit-transformers-bitsandbytes",
+    "published": "Wed, 24 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Collaborates with Microsoft to Launch Hugging Face Model Catalog on Azure",
+    "link": "https://huggingface.co/blog/hugging-face-endpoints-on-azure",
+    "published": "Wed, 24 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders",
+    "link": "https://huggingface.co/blog/huggingface-and-ibm",
+    "published": "Tue, 23 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Safetensors audited as really safe and becoming the default",
+    "link": "https://huggingface.co/blog/safetensors-security-audit",
+    "published": "Tue, 23 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Instruction-tuning Stable Diffusion with InstructPix2Pix",
+    "link": "https://huggingface.co/blog/instruction-tuning-sd",
+    "published": "Tue, 23 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Large-scale Near-deduplication Behind BigCode",
+    "link": "https://huggingface.co/blog/dedup",
+    "published": "Tue, 16 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon",
+    "link": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+    "published": "Tue, 16 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Run a Chatgpt-like Chatbot on a Single GPU with ROCm",
+    "link": "https://huggingface.co/blog/chatbot-amd-gpu",
+    "published": "Mon, 15 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing RWKV — An RNN with the advantages of a transformer",
+    "link": "https://huggingface.co/blog/rwkv",
+    "published": "Mon, 15 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Assisted Generation: a new direction toward low-latency text generation",
+    "link": "https://huggingface.co/blog/assisted-generation",
+    "published": "Thu, 11 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Creating a Coding Assistant with StarCoder",
+    "link": "https://huggingface.co/blog/starchat-alpha",
+    "published": "Tue, 09 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Dive into Text-to-Video Models",
+    "link": "https://huggingface.co/blog/text-to-video",
+    "published": "Mon, 08 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "StarCoder: A State-of-the-Art LLM for Code",
+    "link": "https://huggingface.co/blog/starcoder",
+    "published": "Thu, 04 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How to Install and Use the Hugging Face Unity API",
+    "link": "https://huggingface.co/blog/unity-api",
+    "published": "Mon, 01 May 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Running IF with 🧨 diffusers on a Free Tier Google Colab",
+    "link": "https://huggingface.co/blog/if",
+    "published": "Wed, 26 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Training a language model with 🤗 Transformers using TensorFlow and TPUs",
+    "link": "https://huggingface.co/blog/tf_tpu",
+    "published": "Thu, 27 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models",
+    "link": "https://huggingface.co/blog/databricks-case-study",
+    "published": "Wed, 26 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community",
+    "link": "https://huggingface.co/blog/chinese-language-blog",
+    "published": "Mon, 24 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How to host a Unity game in a Space",
+    "link": "https://huggingface.co/blog/unity-in-spaces",
+    "published": "Fri, 21 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating Hugging Face Transformers with AWS Inferentia2",
+    "link": "https://huggingface.co/blog/accelerate-transformers-with-inferentia2",
+    "published": "Mon, 17 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Graph Classification with Transformers",
+    "link": "https://huggingface.co/blog/graphml-classification",
+    "published": "Fri, 14 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Creating Privacy Preserving AI with Substra",
+    "link": "https://huggingface.co/blog/owkin-substra",
+    "published": "Wed, 12 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Snorkel AI x Hugging Face: unlock foundation models for enterprises",
+    "link": "https://huggingface.co/blog/snorkel-case-study",
+    "published": "Thu, 06 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "StackLLaMA: A hands-on guide to train LLaMA with RLHF",
+    "link": "https://huggingface.co/blog/stackllama",
+    "published": "Wed, 05 Apr 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Ethics and Society Newsletter #3: Ethical Openness at Hugging Face",
+    "link": "https://huggingface.co/blog/ethics-soc-3",
+    "published": "Thu, 30 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator",
+    "link": "https://huggingface.co/blog/habana-gaudi-2-bloom",
+    "published": "Tue, 28 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating Stable Diffusion Inference on Intel CPUs",
+    "link": "https://huggingface.co/blog/stable-diffusion-inference-intel",
+    "published": "Tue, 28 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Federated Learning using Hugging Face and Flower",
+    "link": "https://huggingface.co/blog/fl-with-flower",
+    "published": "Mon, 27 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Train your ControlNet with diffusers",
+    "link": "https://huggingface.co/blog/train-your-controlnet",
+    "published": "Fri, 24 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Jupyter X Hugging Face",
+    "link": "https://huggingface.co/blog/notebooks-hub",
+    "published": "Thu, 23 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Multivariate Probabilistic Time Series Forecasting with Informer",
+    "link": "https://huggingface.co/blog/informer",
+    "published": "Fri, 10 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU",
+    "link": "https://huggingface.co/blog/trl-peft",
+    "published": "Thu, 09 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "New ViT and ALIGN Models From Kakao Brain",
+    "link": "https://huggingface.co/blog/vit-align",
+    "published": "Mon, 06 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Using Machine Learning to Aid Survivors and Race through Time",
+    "link": "https://huggingface.co/blog/using-ml-for-disasters",
+    "published": "Fri, 03 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "ControlNet in Diffusers 🧨",
+    "link": "https://huggingface.co/blog/controlnet",
+    "published": "Fri, 03 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Ethical guidelines for developing the Diffusers library",
+    "link": "https://huggingface.co/blog/ethics-diffusers",
+    "published": "Thu, 02 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How Hugging Face Accelerated Development of Witty Works Writing Assistant",
+    "link": "https://huggingface.co/blog/classification-use-cases",
+    "published": "Wed, 01 Mar 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Red-Teaming Large Language Models",
+    "link": "https://huggingface.co/blog/red-teaming",
+    "published": "Fri, 24 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Swift Diffusers: Fast Stable Diffusion for Mac",
+    "link": "https://huggingface.co/blog/fast-mac-diffusers",
+    "published": "Fri, 24 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and AWS partner to make AI more accessible",
+    "link": "https://huggingface.co/blog/aws-partnership",
+    "published": "Tue, 21 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Zero-shot image-to-text generation with BLIP-2",
+    "link": "https://huggingface.co/blog/blip-2",
+    "published": "Wed, 15 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too",
+    "link": "https://huggingface.co/blog/mantis-case-study",
+    "published": "Wed, 15 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware",
+    "link": "https://huggingface.co/blog/peft",
+    "published": "Fri, 10 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Speech Synthesis, Recognition, and More With SpeechT5",
+    "link": "https://huggingface.co/blog/speecht5",
+    "published": "Wed, 08 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Generating Stories: AI for Game Development #5",
+    "link": "https://huggingface.co/blog/ml-for-games-5",
+    "published": "Tue, 07 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system",
+    "link": "https://huggingface.co/blog/aivsai",
+    "published": "Tue, 07 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating PyTorch Transformers with Intel Sapphire Rapids, part 2",
+    "link": "https://huggingface.co/blog/intel-sapphire-rapids-inference",
+    "published": "Mon, 06 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Dive into Pretraining Strategies for Vision-Language Models",
+    "link": "https://huggingface.co/blog/vision_language_pretraining",
+    "published": "Fri, 03 Feb 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The State of Computer Vision at Hugging Face 🤗",
+    "link": "https://huggingface.co/blog/cv_state",
+    "published": "Mon, 30 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "2D Asset Generation: AI for Game Development #4",
+    "link": "https://huggingface.co/blog/ml-for-games-4",
+    "published": "Thu, 26 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Using LoRA for Efficient Stable Diffusion Fine-Tuning",
+    "link": "https://huggingface.co/blog/lora",
+    "published": "Thu, 26 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "What Makes a Dialog Agent Useful?",
+    "link": "https://huggingface.co/blog/dialog-agents",
+    "published": "Tue, 24 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models",
+    "link": "https://huggingface.co/blog/optimum-onnxruntime-training",
+    "published": "Tue, 24 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "3D Asset Generation: AI for Game Development #3",
+    "link": "https://huggingface.co/blog/ml-for-games-3",
+    "published": "Fri, 20 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Universal Image Segmentation with Mask2Former and OneFormer",
+    "link": "https://huggingface.co/blog/mask2former",
+    "published": "Thu, 19 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome PaddlePaddle to the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/paddlepaddle",
+    "published": "Tue, 17 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Image Similarity with Hugging Face Datasets and Transformers",
+    "link": "https://huggingface.co/blog/image-similarity",
+    "published": "Mon, 16 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 2",
+    "link": "https://huggingface.co/blog/ml-for-games-2",
+    "published": "Mon, 09 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introduction to Graph Machine Learning",
+    "link": "https://huggingface.co/blog/intro-graphml",
+    "published": "Tue, 03 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 1",
+    "link": "https://huggingface.co/blog/ml-for-games-1",
+    "published": "Mon, 02 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating PyTorch Transformers with Intel Sapphire Rapids, part 1",
+    "link": "https://huggingface.co/blog/intel-sapphire-rapids",
+    "published": "Mon, 02 Jan 2023 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Zero-shot image segmentation with CLIPSeg",
+    "link": "https://huggingface.co/blog/clipseg-zero-shot",
+    "published": "Wed, 21 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Model Cards: Introducing HF Model documentation tools",
+    "link": "https://huggingface.co/blog/model-cards",
+    "published": "Tue, 20 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Ethics and Society Newsletter #2: Let's talk about bias!",
+    "link": "https://huggingface.co/blog/ethics-soc-2",
+    "published": "Thu, 15 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Complete Guide to Audio Datasets",
+    "link": "https://huggingface.co/blog/audio-datasets",
+    "published": "Thu, 15 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB",
+    "link": "https://huggingface.co/blog/habana-gaudi-2-benchmark",
+    "published": "Wed, 14 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Illustrating Reinforcement Learning from Human Feedback (RLHF)",
+    "link": "https://huggingface.co/blog/rlhf",
+    "published": "Fri, 09 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community",
+    "link": "https://huggingface.co/blog/elixir-bumblebee",
+    "published": "Fri, 09 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deep Learning with Proteins",
+    "link": "https://huggingface.co/blog/deep-learning-with-proteins",
+    "published": "Fri, 02 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Using Stable Diffusion with Core ML on Apple Silicon",
+    "link": "https://huggingface.co/blog/diffusers-coreml",
+    "published": "Thu, 01 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Probabilistic Time Series Forecasting with 🤗 Transformers",
+    "link": "https://huggingface.co/blog/time-series-transformers",
+    "published": "Thu, 01 Dec 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "VQ Diffusion with 🧨 Diffusers",
+    "link": "https://huggingface.co/blog/vq-diffusion",
+    "published": "Wed, 30 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "We are hiring interns!",
+    "link": "https://huggingface.co/blog/interns-2023",
+    "published": "Tue, 29 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Diffusion Models Live Event",
+    "link": "https://huggingface.co/blog/diffusion-models-event",
+    "published": "Fri, 25 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating Document AI",
+    "link": "https://huggingface.co/blog/document-ai",
+    "published": "Mon, 21 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "An Overview of Inference Solutions on Hugging Face",
+    "link": "https://huggingface.co/blog/inference-update",
+    "published": "Mon, 21 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Director of Machine Learning Insights [Part 4]",
+    "link": "https://huggingface.co/blog/ml-director-insights-4",
+    "published": "Wed, 23 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Machine Learning Demos on arXiv",
+    "link": "https://huggingface.co/blog/arxiv",
+    "published": "Thu, 17 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Sentiment Classification with Fully Homomorphic Encryption using Concrete ML",
+    "link": "https://huggingface.co/blog/sentiment-analysis-fhe",
+    "published": "Thu, 17 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Generating Human-level Text with Contrastive Search in Transformers 🤗",
+    "link": "https://huggingface.co/blog/introducing-csearch",
+    "published": "Tue, 08 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing our new pricing",
+    "link": "https://huggingface.co/blog/pricing-update",
+    "published": "Tue, 08 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Training Stable Diffusion with Dreambooth using 🧨 Diffusers",
+    "link": "https://huggingface.co/blog/dreambooth",
+    "published": "Mon, 07 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-Tune Whisper with 🤗 Transformers",
+    "link": "https://huggingface.co/blog/fine-tune-whisper",
+    "published": "Thu, 03 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerate your models with 🤗 Optimum Intel and OpenVINO",
+    "link": "https://huggingface.co/blog/openvino",
+    "published": "Wed, 02 Nov 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Evaluating Language Model Bias with 🤗 Evaluate",
+    "link": "https://huggingface.co/blog/evaluating-llm-bias",
+    "published": "Mon, 24 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "From PyTorch DDP to 🤗 Accelerate to 🤗 Trainer, mastery of distributed training with ease",
+    "link": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+    "published": "Fri, 21 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "MTEB: Massive Text Embedding Benchmark",
+    "link": "https://huggingface.co/blog/mteb",
+    "published": "Wed, 19 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Getting started with Hugging Face Inference Endpoints",
+    "link": "https://huggingface.co/blog/inference-endpoints",
+    "published": "Fri, 14 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Stable Diffusion in JAX/Flax 🚀",
+    "link": "https://huggingface.co/blog/stable_diffusion_jax",
+    "published": "Thu, 13 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Optimization story: Bloom inference",
+    "link": "https://huggingface.co/blog/bloom-inference-optimization",
+    "published": "Wed, 12 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing DOI: the Digital Object Identifier to Datasets and Models",
+    "link": "https://huggingface.co/blog/introducing-doi",
+    "published": "Fri, 07 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Japanese Stable Diffusion",
+    "link": "https://huggingface.co/blog/japanese-stable-diffusion",
+    "published": "Wed, 05 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Very Large Language Models and How to Evaluate Them",
+    "link": "https://huggingface.co/blog/zero-shot-eval-on-the-hub",
+    "published": "Mon, 03 Oct 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Image Classification with AutoTrain",
+    "link": "https://huggingface.co/blog/autotrain-image-classification",
+    "published": "Wed, 28 Sep 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How 🤗 Accelerate runs very large models thanks to PyTorch",
+    "link": "https://huggingface.co/blog/accelerate-large-models",
+    "published": "Tue, 27 Sep 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "SetFit: Efficient Few-Shot Learning Without Prompts",
+    "link": "https://huggingface.co/blog/setfit",
+    "published": "Mon, 26 Sep 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Ethics and Society Newsletter #1",
+    "link": "https://huggingface.co/blog/ethics-soc-1",
+    "published": "Thu, 22 Sep 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate",
+    "link": "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+    "published": "Fri, 16 Sep 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How to train a Language Model with Megatron-LM",
+    "link": "https://huggingface.co/blog/megatron-training",
+    "published": "Wed, 07 Sep 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "What's new in Diffusers? 🎨",
+    "link": "https://huggingface.co/blog/diffusers-2nd-month",
+    "published": "Mon, 12 Sep 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Train your first Decision Transformer",
+    "link": "https://huggingface.co/blog/train-decision-transformers",
+    "published": "Thu, 08 Sep 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "OpenRAIL: Towards open and responsible AI licensing frameworks",
+    "link": "https://huggingface.co/blog/open_rail",
+    "published": "Wed, 31 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Visualize proteins on Hugging Face Spaces",
+    "link": "https://huggingface.co/blog/spaces_3dmoljs",
+    "published": "Wed, 24 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Stable Diffusion with 🧨 Diffusers",
+    "link": "https://huggingface.co/blog/stable_diffusion",
+    "published": "Mon, 22 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Pre-Train BERT with Hugging Face Transformers and Habana Gaudi",
+    "link": "https://huggingface.co/blog/pretraining-bert",
+    "published": "Mon, 22 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploying 🤗 ViT on Vertex AI",
+    "link": "https://huggingface.co/blog/deploy-vertex-ai",
+    "published": "Fri, 19 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore",
+    "link": "https://huggingface.co/blog/vision-transformers",
+    "published": "Thu, 18 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes",
+    "link": "https://huggingface.co/blog/hf-bitsandbytes-integration",
+    "published": "Wed, 17 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Skops",
+    "link": "https://huggingface.co/blog/skops",
+    "published": "Fri, 12 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face's TensorFlow Philosophy",
+    "link": "https://huggingface.co/blog/tensorflow-philosophy",
+    "published": "Fri, 12 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploying 🤗 ViT on Kubernetes with TF Serving",
+    "link": "https://huggingface.co/blog/deploy-tfserving-kubernetes",
+    "published": "Thu, 11 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Train and Fine-Tune Sentence Transformers Models",
+    "link": "https://huggingface.co/blog/how-to-train-sentence-transformers",
+    "published": "Wed, 10 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Proximal Policy Optimization (PPO)",
+    "link": "https://huggingface.co/blog/deep-rl-ppo",
+    "published": "Fri, 05 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Private Hub: A New Way to Build With Machine Learning",
+    "link": "https://huggingface.co/blog/introducing-private-hub",
+    "published": "Wed, 03 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Nyströmformer, Approximating self-attention in linear time and memory via the Nyström method",
+    "link": "https://huggingface.co/blog/nystromformer",
+    "published": "Tue, 02 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "AI Policy @🤗: Comments on U.S. National AI Research Resource Interim Report",
+    "link": "https://huggingface.co/blog/us-national-ai-research-resource",
+    "published": "Mon, 01 Aug 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing new audio and vision documentation in 🤗 Datasets",
+    "link": "https://huggingface.co/blog/datasets-docs-update",
+    "published": "Thu, 28 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Faster Text Generation with TensorFlow and XLA",
+    "link": "https://huggingface.co/blog/tf-xla-generate",
+    "published": "Wed, 27 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploying TensorFlow Vision Models in Hugging Face with TF Serving",
+    "link": "https://huggingface.co/blog/tf-serving-vision",
+    "published": "Mon, 25 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Advantage Actor Critic (A2C)",
+    "link": "https://huggingface.co/blog/deep-rl-a2c",
+    "published": "Fri, 22 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How to train your model dynamically using adversarial data",
+    "link": "https://huggingface.co/blog/mnist-adversarial",
+    "published": "Sat, 16 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Technology Behind BLOOM Training",
+    "link": "https://huggingface.co/blog/bloom-megatron-deepspeed",
+    "published": "Thu, 14 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Building a Playlist Generator with Sentence Transformers",
+    "link": "https://huggingface.co/blog/playlist-generator",
+    "published": "Wed, 13 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing The World's Largest Open Multilingual Language Model: BLOOM",
+    "link": "https://huggingface.co/blog/bloom",
+    "published": "Tue, 12 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Getting Started with Sentiment Analysis on Twitter",
+    "link": "https://huggingface.co/blog/sentiment-analysis-twitter",
+    "published": "Thu, 07 Jul 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Policy Gradient with PyTorch",
+    "link": "https://huggingface.co/blog/deep-rl-pg",
+    "published": "Thu, 30 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Liftoff! How to get started with your first ML project 🚀",
+    "link": "https://huggingface.co/blog/your-first-ml-project",
+    "published": "Wed, 29 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerate Large Model Training using DeepSpeed",
+    "link": "https://huggingface.co/blog/accelerate-deepspeed",
+    "published": "Tue, 28 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Announcing Evaluation on the Hub",
+    "link": "https://huggingface.co/blog/eval-on-the-hub",
+    "published": "Tue, 28 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Getting Started With Embeddings",
+    "link": "https://huggingface.co/blog/getting-started-with-embeddings",
+    "published": "Thu, 23 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Convert Transformers to ONNX with Hugging Face Optimum",
+    "link": "https://huggingface.co/blog/convert-transformers-to-onnx",
+    "published": "Wed, 22 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration",
+    "link": "https://huggingface.co/blog/intel",
+    "published": "Wed, 15 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Director of Machine Learning Insights [Part 3: Finance Edition]",
+    "link": "https://huggingface.co/blog/ml-director-insights-3",
+    "published": "Tue, 14 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Annotated Diffusion Model",
+    "link": "https://huggingface.co/blog/annotated-diffusion",
+    "published": "Tue, 07 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deep Q-Learning with Atari",
+    "link": "https://huggingface.co/blog/deep-rl-dqn",
+    "published": "Tue, 07 Jun 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers",
+    "link": "https://huggingface.co/blog/graphcore-update",
+    "published": "Thu, 26 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Pull Requests and Discussions 🥳",
+    "link": "https://huggingface.co/blog/community-update",
+    "published": "Wed, 25 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Efficient Table Pre-training without Real Data: An Introduction to TAPEX",
+    "link": "https://huggingface.co/blog/tapex",
+    "published": "Mon, 23 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "An Introduction to Q-Learning Part 2",
+    "link": "https://huggingface.co/blog/deep-rl-q-part2",
+    "published": "Fri, 20 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap",
+    "link": "https://huggingface.co/blog/sempre-health-eap-case-study",
+    "published": "Thu, 19 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Putting ethical principles at the core of research lifecycle",
+    "link": "https://huggingface.co/blog/ethical-charter-multimodal",
+    "published": "Thu, 19 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "An Introduction to Q-Learning Part 1",
+    "link": "https://huggingface.co/blog/deep-rl-q-part1",
+    "published": "Wed, 18 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Machine Learning Experts - Sasha Luccioni Interview",
+    "link": "https://huggingface.co/blog/sasha-luccioni-interview",
+    "published": "Tue, 17 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Announcing the Hugging Face Fellowship Program",
+    "link": "https://huggingface.co/blog/fellowship",
+    "published": "Tue, 17 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Gradio 3.0 is Out!",
+    "link": "https://huggingface.co/blog/gradio-blocks",
+    "published": "Mon, 16 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Director of Machine Learning Insights [Part 2: SaaS Edition]",
+    "link": "https://huggingface.co/blog/ml-director-insights-2",
+    "published": "Fri, 13 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Student Ambassador Program's call for applications is open!",
+    "link": "https://huggingface.co/blog/ambassadors",
+    "published": "Fri, 13 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerated Inference with Optimum and Transformers Pipelines",
+    "link": "https://huggingface.co/blog/optimum-inference",
+    "published": "Tue, 10 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "We Raised $100 Million for Open & Collaborative Machine Learning 🚀",
+    "link": "https://huggingface.co/blog/series-c",
+    "published": "Mon, 09 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome fastai to the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/fastai",
+    "published": "Fri, 06 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "An Introduction to Deep Reinforcement Learning",
+    "link": "https://huggingface.co/blog/deep-rl-intro",
+    "published": "Wed, 04 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel",
+    "link": "https://huggingface.co/blog/pytorch-fsdp",
+    "published": "Mon, 02 May 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Opinion Classification with Kili and HuggingFace AutoTrain",
+    "link": "https://huggingface.co/blog/opinion-classification-with-kili",
+    "published": "Thu, 28 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Director of Machine Learning Insights [Series]",
+    "link": "https://huggingface.co/blog/ml-director-insights",
+    "published": "Wed, 27 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Getting Started with Transformers on Habana Gaudi",
+    "link": "https://huggingface.co/blog/getting-started-habana",
+    "published": "Tue, 26 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Hugging Face for Education",
+    "link": "https://huggingface.co/blog/education",
+    "published": "Mon, 25 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Supercharged Customer Service with Machine Learning",
+    "link": "https://huggingface.co/blog/supercharge-customer-service-with-machine-learning",
+    "published": "Mon, 25 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "CO2 Emissions and the 🤗 Hub: Leading the Charge",
+    "link": "https://huggingface.co/blog/carbon-emissions-on-the-hub",
+    "published": "Fri, 22 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Machine Learning Experts - Lewis Tunstall Interview",
+    "link": "https://huggingface.co/blog/lewis-tunstall-interview",
+    "published": "Wed, 13 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training",
+    "link": "https://huggingface.co/blog/habana",
+    "published": "Tue, 12 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Don't repeat yourself - 🤗 Transformers Design Philosophy",
+    "link": "https://huggingface.co/blog/transformers-design-philosophy",
+    "published": "Tue, 05 Apr 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Decision Transformers on Hugging Face 🤗",
+    "link": "https://huggingface.co/blog/decision-transformers",
+    "published": "Mon, 28 Mar 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Machine Learning Experts - Meg Mitchell Interview",
+    "link": "https://huggingface.co/blog/meg-mitchell-interview",
+    "published": "Wed, 23 Mar 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Announcing the 🤗 AI Research Residency Program",
+    "link": "https://huggingface.co/blog/ai-residency",
+    "published": "Tue, 22 Mar 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-Tune a Semantic Segmentation Model with a Custom Dataset",
+    "link": "https://huggingface.co/blog/fine-tune-segformer",
+    "published": "Thu, 17 Mar 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerate BERT inference with Hugging Face Transformers and AWS inferentia",
+    "link": "https://huggingface.co/blog/bert-inferentia-sagemaker",
+    "published": "Wed, 16 Mar 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Image search with 🤗 datasets",
+    "link": "https://huggingface.co/blog/image-search-datasets",
+    "published": "Wed, 16 Mar 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Guiding Text Generation with Constrained Beam Search in 🤗 Transformers",
+    "link": "https://huggingface.co/blog/constrained-beam-search",
+    "published": "Fri, 11 Mar 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "BERT 101 🤗 State Of The Art NLP Model Explained",
+    "link": "https://huggingface.co/blog/bert-101",
+    "published": "Wed, 02 Mar 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-Tune ViT for Image Classification with 🤗 Transformers",
+    "link": "https://huggingface.co/blog/fine-tune-vit",
+    "published": "Fri, 11 Feb 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Getting Started with Sentiment Analysis using Python",
+    "link": "https://huggingface.co/blog/sentiment-analysis-python",
+    "published": "Wed, 02 Feb 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers",
+    "link": "https://huggingface.co/blog/asr-chunking",
+    "published": "Tue, 01 Feb 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Supercharged Searching on the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/searching-the-hub",
+    "published": "Tue, 25 Jan 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Stable-baselines3 to the Hugging Face Hub 🤗",
+    "link": "https://huggingface.co/blog/sb3",
+    "published": "Fri, 21 Jan 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs",
+    "link": "https://huggingface.co/blog/infinity-cpu-performance",
+    "published": "Thu, 13 Jan 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Boost Wav2Vec2 with n-gram LM in 🤗 Transformers",
+    "link": "https://huggingface.co/blog/wav2vec2-with-ngram",
+    "published": "Wed, 12 Jan 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker",
+    "link": "https://huggingface.co/blog/gptj-sagemaker",
+    "published": "Tue, 11 Jan 2022 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Active Learning with AutoNLP and Prodigy",
+    "link": "https://huggingface.co/blog/autonlp-prodigy",
+    "published": "Thu, 23 Dec 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Gradio joins Hugging Face!",
+    "link": "https://huggingface.co/blog/gradio-joins-hf",
+    "published": "Tue, 21 Dec 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Perceiver IO: a scalable, fully-attentional model that works on any modality",
+    "link": "https://huggingface.co/blog/perceiver",
+    "published": "Wed, 15 Dec 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Training CodeParrot 🦜 from Scratch",
+    "link": "https://huggingface.co/blog/codeparrot",
+    "published": "Wed, 08 Dec 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Snowball Fight ☃️, our First ML-Agents Environment",
+    "link": "https://huggingface.co/blog/snowball-fight",
+    "published": "Thu, 02 Dec 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Getting Started with Hugging Face Transformers for IPUs with Optimum",
+    "link": "https://huggingface.co/blog/graphcore-getting-started",
+    "published": "Tue, 30 Nov 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets",
+    "link": "https://huggingface.co/blog/data-measurements-tool",
+    "published": "Mon, 29 Nov 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Accelerating PyTorch distributed fine-tuning with Intel technologies",
+    "link": "https://huggingface.co/blog/accelerating-pytorch",
+    "published": "Fri, 19 Nov 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-tuning XLS-R for Multi-Lingual ASR with 🤗 Transformers",
+    "link": "https://huggingface.co/blog/fine-tune-xlsr-wav2vec2",
+    "published": "Mon, 15 Nov 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Scaling up BERT-like model Inference on modern CPU - Part 2",
+    "link": "https://huggingface.co/blog/bert-cpu-scaling-part-2",
+    "published": "Thu, 04 Nov 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Course Launch Community Event",
+    "link": "https://huggingface.co/blog/course-launch-event",
+    "published": "Tue, 26 Oct 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Large Language Models: A New Moore's Law?",
+    "link": "https://huggingface.co/blog/large-language-models",
+    "published": "Tue, 26 Oct 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Train a Sentence Embedding Model with 1B Training Pairs",
+    "link": "https://huggingface.co/blog/1b-sentence-embeddings",
+    "published": "Mon, 25 Oct 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Age of Machine Learning As Code Has Arrived",
+    "link": "https://huggingface.co/blog/the-age-of-ml-as-code",
+    "published": "Wed, 20 Oct 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine tuning CLIP with Remote Sensing (Satellite) images and captions",
+    "link": "https://huggingface.co/blog/fine-tune-clip-rsicd",
+    "published": "Wed, 13 Oct 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hosting your Models and Datasets on Hugging Face Spaces using Streamlit",
+    "link": "https://huggingface.co/blog/streamlit-spaces",
+    "published": "Tue, 05 Oct 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Showcase Your Projects in Spaces using Gradio",
+    "link": "https://huggingface.co/blog/gradio-spaces",
+    "published": "Tue, 05 Oct 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Summer at Hugging Face ☀️",
+    "link": "https://huggingface.co/blog/summer-at-huggingface",
+    "published": "Fri, 24 Sep 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and Graphcore partner for IPU-optimized Transformers",
+    "link": "https://huggingface.co/blog/graphcore",
+    "published": "Tue, 14 Sep 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Optimum: The Optimization Toolkit for Transformers at Scale",
+    "link": "https://huggingface.co/blog/hardware-partners-program",
+    "published": "Tue, 14 Sep 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deep Learning over the Internet: Training Language Models Collaboratively",
+    "link": "https://huggingface.co/blog/collaborative-training",
+    "published": "Thu, 15 Jul 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome spaCy to the 🤗 Hub",
+    "link": "https://huggingface.co/blog/spacy",
+    "published": "Tue, 13 Jul 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Deploy Hugging Face models easily with Amazon SageMaker",
+    "link": "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker",
+    "published": "Thu, 08 Jul 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Sentence Transformers in the 🤗 Hub",
+    "link": "https://huggingface.co/blog/sentence-transformers-in-the-hub",
+    "published": "Mon, 28 Jun 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Few-shot learning in practice: GPT-NEO and the 🤗 Accelerated Inference API",
+    "link": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
+    "published": "Thu, 03 Jun 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Using & Mixing Hugging Face Models with Gradio 2.0",
+    "link": "https://huggingface.co/blog/gradio",
+    "published": "Tue, 25 May 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Scaling-up BERT Inference on CPU (Part 1)",
+    "link": "https://huggingface.co/blog/bert-cpu-scaling-part-1",
+    "published": "Tue, 20 Apr 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing 🤗 Accelerate",
+    "link": "https://huggingface.co/blog/accelerate-library",
+    "published": "Fri, 16 Apr 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker",
+    "link": "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq",
+    "published": "Thu, 08 Apr 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Understanding BigBird's Block Sparse Attention",
+    "link": "https://huggingface.co/blog/big-bird",
+    "published": "Wed, 31 Mar 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Partnership: Amazon SageMaker and Hugging Face",
+    "link": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+    "published": "Tue, 23 Mar 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "My Journey to a serverless transformers pipeline on Google Cloud",
+    "link": "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds",
+    "published": "Thu, 18 Mar 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fine-Tune Wav2Vec2 for English ASR with 🤗 Transformers",
+    "link": "https://huggingface.co/blog/fine-tune-wav2vec2-english",
+    "published": "Fri, 12 Mar 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Reads, Feb. 2021 - Long-range Transformers",
+    "link": "https://huggingface.co/blog/long-range-transformers",
+    "published": "Tue, 09 Mar 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Simple considerations for simple people building fancy neural networks",
+    "link": "https://huggingface.co/blog/simple-considerations",
+    "published": "Thu, 25 Feb 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Retrieval Augmented Generation with Huggingface Transformers and Ray",
+    "link": "https://huggingface.co/blog/ray-rag",
+    "published": "Wed, 10 Feb 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face on PyTorch / XLA TPUs",
+    "link": "https://huggingface.co/blog/pytorch-xla",
+    "published": "Tue, 09 Feb 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Faster TensorFlow models in Hugging Face Transformers",
+    "link": "https://huggingface.co/blog/tf-serving",
+    "published": "Tue, 26 Jan 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Fit More and Train Faster With ZeRO via DeepSpeed and FairScale",
+    "link": "https://huggingface.co/blog/zero-deepspeed-fairscale",
+    "published": "Tue, 19 Jan 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How we sped up transformer inference 100x for 🤗 API customers",
+    "link": "https://huggingface.co/blog/accelerated-inference",
+    "published": "Mon, 18 Jan 2021 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models",
+    "link": "https://huggingface.co/blog/warm-starting-encoder-decoder",
+    "published": "Mon, 09 Nov 2020 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Porting fairseq wmt19 translation system to transformers",
+    "link": "https://huggingface.co/blog/porting-fsmt",
+    "published": "Tue, 03 Nov 2020 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Hyperparameter Search with Transformers and Ray Tune",
+    "link": "https://huggingface.co/blog/ray-tune",
+    "published": "Mon, 02 Nov 2020 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Transformer-based Encoder-Decoder Models",
+    "link": "https://huggingface.co/blog/encoder-decoder",
+    "published": "Sat, 10 Oct 2020 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "Block Sparse Matrices for Smaller and Faster Language Models",
+    "link": "https://huggingface.co/blog/pytorch_block_sparse",
+    "published": "Thu, 10 Sep 2020 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "The Reformer - Pushing the limits of language modeling",
+    "link": "https://huggingface.co/blog/reformer",
+    "published": "Fri, 03 Jul 2020 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How to generate text: using different decoding methods for language generation with Transformers",
+    "link": "https://huggingface.co/blog/how-to-generate",
+    "published": "Sun, 01 Mar 2020 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+    "link": "https://huggingface.co/blog/how-to-train",
+    "published": "Fri, 14 Feb 2020 00:00:00 GMT",
+    "summary": "",
+    "persona_id": "persona_ai_builder",
+    "source": "Hugging Face Blog"
+  }
+]
