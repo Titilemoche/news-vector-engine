@@ -1,6 +1,3 @@
-# news-vector-engine
-Systeme de recommandation de news personnalisé basé sur base vectorielle et profils dynamiques
-
 # 🧠 Persona News Engine
 
 Un système de recommandation de news personnalisées basé sur des **bases de données vectorielles hiérarchisées**, des **personas évolutifs** et des modèles d’intelligence artificielle.
