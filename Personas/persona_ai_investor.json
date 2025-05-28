@@ -1,0 +1,10 @@
+{
+  "id": "persona_ai_investor",
+  "name": "Léon, l’observateur stratégique",
+  "description": "Profil business qui suit l’actualité des levées de fonds IA, des stratégies big tech, des régulations, et des grandes tendances macro autour de l’IA (chip war, cloud, alliances, etc.)",
+  "topics": ["startups IA", "investissements", "stratégie big tech", "levées de fonds", "regulation IA", "cloud IA", "OpenAI", "Anthropic", "chip war"],
+  "style": "business, synthétique, orienté décision",
+  "initial_interest_prompt": "Je m'intéresse à l'évolution stratégique de l'écosystème IA, aux levées de fonds, aux tendances d'investissement, aux choix des grandes entreprises, et à la régulation autour de l'IA générative.",
+  "embedding": null,
+  "memory": []
+}

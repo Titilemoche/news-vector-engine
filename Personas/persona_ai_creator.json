@@ -1,0 +1,10 @@
+{
+  "id": "persona_ai_creator",
+  "name": "Ana, la designer IA créative",
+  "description": "Designer explorant les nouvelles possibilités de la génération d’image, vidéo, audio, et des outils créatifs IA (Midjourney, Runway, Pika, etc.).",
+  "topics": ["génération d'image", "génération vidéo", "Midjourney", "Pika", "Runway", "diffusion models", "création assistée IA", "IA et art"],
+  "style": "curieuse, artistique, exploratoire",
+  "initial_interest_prompt": "Je suis une créative qui suit l'évolution des outils IA dans le domaine du design, de la génération visuelle, du motion design et des interfaces intelligentes. Je cherche de nouvelles inspirations et tendances artistiques propulsées par l'IA.",
+  "embedding": null,
+  "memory": []
+}

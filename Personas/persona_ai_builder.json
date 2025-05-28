@@ -1,0 +1,10 @@
+{
+  "id": "persona_ai_builder",
+  "name": "Théo, le dev IA fullstack",
+  "description": "Développeur passionné par les nouvelles APIs, les modèles open source, les outils de production IA et l’évolution des frameworks comme LangChain, LlamaIndex, Qdrant, etc.",
+  "topics": ["LangChain", "LLMs", "RAG", "Qdrant", "vector DB", "inference", "Hugging Face", "Mistral", "frameworks IA"],
+  "style": "technique, précis, à jour",
+  "initial_interest_prompt": "Je suis un développeur intéressé par l'évolution des outils d'IA générative, les bases vectorielles, les modèles open source, les agents autonomes, et tout ce qui touche aux systèmes IA décentralisés et scalables.",
+  "embedding": null,
+  "memory": []
+}

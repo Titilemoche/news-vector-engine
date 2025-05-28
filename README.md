@@ -36,9 +36,9 @@ Créer une plateforme qui simule une **agence de presse intelligente et personna
 ## 🚧 Roadmap
 
 ### ✅ Étape 0 – Définition
-- [ ] Rédiger la mini-spec
-- [ ] Finaliser les personas de départ
-- [ ] Choisir les premières sources à scraper
+- [x] Rédiger la mini-spec
+- [X] Finaliser les personas de départ
+- [X] Choisir les premières sources à scraper
 
 ### ⏳ Étape 1 – Prototype de base
 - [ ] Scraping basique (flux RSS ou APIs)
