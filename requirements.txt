@@ -1,0 +1,15 @@
+# Python dependencies for the news-vector-engine project
+# Add your dependencies here, e.g.:
+# pandas
+# numpy
+# scikit-learn
+# tensorflow
+# torch
+# transformers
+# beautifulsoup4
+# requests
+feedparser
+python-dotenv
+google-generativeai
+openai
+qdrant-client>=1.7.0

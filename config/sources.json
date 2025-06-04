@@ -1,0 +1,20 @@
+[
+  {
+    "persona_id": "persona_ai_builder",
+    "source_name": "Hugging Face Blog",
+    "type": "rss",
+    "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "persona_id": "persona_ai_creator",
+    "source_name": "Playform.io Editorial",
+    "type": "rss",
+    "url": "https://playform.io/editorial?format=rss"
+  },
+  {
+    "persona_id": "persona_ai_investor",
+    "source_name": "TechCrunch Fundings & Exits",
+    "type": "rss",
+    "url": "https://techcrunch.com/fundings-exits/feed/"
+  }
+]
